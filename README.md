@@ -16,7 +16,7 @@
 | 이예진(팀장) | Backend / Frontend | 인증/인가, 소셜로그인 |
 | 김성철(PM) | Backend / Frontend | 회원 도메인, 퀴즈 문제풀이 |
 | 김율희 | Backend | 퀴즈 도메인 전반, AI 호출 관리 담당 |
-| 이광현 | Backend / Frontend | 캐릭터, SpringDoc |
+| 이광현 | Backend / Frontend | 캐릭터, SpringDoc, API연동 |
 | 최승욱 | Backend | 뉴스 도메인 전반, 뉴스 생성 및 데이터 수집·전처리 담당 |
 
 *각 팀원은 맡은 영역에서 협업하며, 전체 시스템 안정성과 기능 확장을 위해 소통하고 있습니다.*
